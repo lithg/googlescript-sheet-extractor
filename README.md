@@ -1,6 +1,6 @@
 # Google Sheets Data Extrator
 
-Script made for Google Script wich get all data needed and do some actions, line:
+Script made for Google Script wich get all data needed and do some actions, like:
 
   - Maximum value
   - Minimum value
